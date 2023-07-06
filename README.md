@@ -1,2 +1,18 @@
-# pratica-banco_dados-devs
-Prática em bancos de dados relacionais usando o SGBD  PostgreSQL e Mysql
+# Prática em Banco de dados __SQL__
+
+Prática em bancos de dados relacional
+
+Curso __+Devs2Blu__
+
+## Tecnologias  
+
+- PostgreSQL 
+- Mysql
+
+## Ferramentas 
+
+- Dbeaver 
+ - Mysql workBenck
+
+
+
